@@ -1,4 +1,4 @@
-# codealpha_phishing-attack-
+# codealpha_phishing-attack
 # Phishing Awareness Training Module
 
 A cybersecurity awareness presentation/module designed to educate users about phishing attacks, social engineering tactics, and online safety practices.
